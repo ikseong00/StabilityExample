@@ -1,0 +1,36 @@
+unstable class MMTestClass {
+  stable var text: String
+  <runtime stability> = Unstable
+}
+stable class MMStableTestClass {
+  stable var text: String
+}
+stable class MMImmutableTestClass {
+  stable var text: String
+}
+unstable class MMTestDataClass {
+  stable var text: String
+  <runtime stability> = Unstable
+}
+stable class MMStableTestDataClass {
+  stable var text: String
+}
+stable class MMImmutableTestDataClass {
+  stable var text: String
+}
+unstable class MMUnstableEqualTestClass {
+  stable var text: String
+  <runtime stability> = Unstable
+}
+stable class MMStableEqualTestClass {
+  stable val text: String
+  <runtime stability> = Stable
+}
+unstable class MMUnstableNonEqualTestClass {
+  stable var text: String
+  <runtime stability> = Unstable
+}
+stable class MMStableNonEqualTestClass {
+  stable val text: String
+  <runtime stability> = Stable
+}

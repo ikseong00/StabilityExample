@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ikseong/Desktop/develop/Study/Stability/feature-multimodule/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16497182962848664800.xml:2:13-83
+INJECTED from /Users/ikseong/Desktop/develop/Study/Stability/feature-multimodule/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16497182962848664800.xml:2:13-83
+	package
+		INJECTED from /Users/ikseong/Desktop/develop/Study/Stability/feature-multimodule/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16497182962848664800.xml
+	xmlns:android
+		ADDED from /Users/ikseong/Desktop/develop/Study/Stability/feature-multimodule/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16497182962848664800.xml:2:23-81
+uses-sdk
+INJECTED from /Users/ikseong/Desktop/develop/Study/Stability/feature-multimodule/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16497182962848664800.xml reason: use-sdk injection requested
+INJECTED from /Users/ikseong/Desktop/develop/Study/Stability/feature-multimodule/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16497182962848664800.xml
+INJECTED from /Users/ikseong/Desktop/develop/Study/Stability/feature-multimodule/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16497182962848664800.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ikseong/Desktop/develop/Study/Stability/feature-multimodule/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16497182962848664800.xml
+	android:minSdkVersion
+		INJECTED from /Users/ikseong/Desktop/develop/Study/Stability/feature-multimodule/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16497182962848664800.xml
